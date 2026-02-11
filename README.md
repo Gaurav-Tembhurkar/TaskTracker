@@ -63,6 +63,9 @@ npm start
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
+## Live Demo
+https://react-task-manager.vercel.app
+
 ## Usage
 
 ### Adding Tasks
